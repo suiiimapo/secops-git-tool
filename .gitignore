@@ -1,0 +1,8 @@
+# Ne JAMAIS envoyer la clé de sécurité
+cle_secrete.key
+
+# Ignorer tous les fichiers restaurés/déchiffrés en clair
+*_restaure.*
+
+# Ignorer les fichiers de cache Python
+__pycache__/
